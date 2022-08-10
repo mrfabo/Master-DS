@@ -9,8 +9,7 @@ I 7 tipi di classe sono: Mammifero, Uccello, Rettile, Pesce, Anfibio, Insetto e 
 
 Lo scopo di questo set di dati è quello di poter prevedere la classificazione degli animali in base alle variabili.
 
-zoo.csv
-
+## Dataset zoo.csv
 Informazioni sugli attributi: (nome dell'attributo e tipo di dominio del valore)
 
 animal_name: Unico per ogni istanza
@@ -35,8 +34,7 @@ class_type Numeric (Interi nel range 1-7)
 
 
 
-class.csv
-
+## Dataset class.csv
 Questo csv descrive il set di dati
 
 Class_Number Numerico (valori interi nell'intervallo 1-7)
