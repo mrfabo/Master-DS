@@ -13,6 +13,7 @@ Lo scopo di questo set di dati è quello di poter prevedere la classificazione d
 Informazioni sugli attributi: (nome dell'attributo e tipo di dominio del valore)
 
   animal_name: Unico per ogni istanza
+  
   hair Boolean
   feathers Boolean
   eggs Boolean
