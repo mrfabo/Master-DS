@@ -15,21 +15,37 @@ Informazioni sugli attributi: (nome dell'attributo e tipo di dominio del valore)
   animal_name: Unico per ogni istanza
   
   hair Boolean
+  
   feathers Boolean
+  
   eggs Boolean
+  
   milk Boolean
+  
   airborne Boolean
+  
   aquatic Boolean
+  
   predator Boolean
+  
   toothed Boolean
+  
   backbone Boolean
+  
   breathes Boolean
+  
   venomous Boolean
+  
   fins Boolean
+  
   legs Numeric (Valori: {0,2,4,5,6,8})
+  
   tail Boolean
+  
   domestic Boolean
+  
   catsize Boolean
+  
   class_type Numeric (Interi nel range 1-7)
 
 
@@ -38,7 +54,10 @@ Informazioni sugli attributi: (nome dell'attributo e tipo di dominio del valore)
 ## Dataset class.csv
 Questo csv descrive il set di dati
 
-  Class_Number Numerico (valori interi nell'intervallo 1-7)
-  NumberOfAnimalSpeciesIn_Class Numerico
-  Class_Type carattere -- La descrizione in parole reali della classe
-  Animal_Names carattere -- L'elenco degli animali che rientrano nella categoria della classe
+Class_Number Numerico (valori interi nell'intervallo 1-7)
+
+NumberOfAnimalSpeciesIn_Class Numerico
+
+Class_Type carattere -- La descrizione in parole reali della classe
+
+Animal_Names carattere -- L'elenco degli animali che rientrano nella categoria della classe
